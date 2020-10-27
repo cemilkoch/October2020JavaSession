@@ -1,4 +1,4 @@
-package week5;
+package week_5;
 
 public class ArrayConcept {
 
